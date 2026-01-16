@@ -1,38 +1,49 @@
 # Hi, I'm Manisha 👋
 
-Senior QA Engineer with 7+ years of experience in Manual and Automation Testing.
-Experienced in ensuring product quality through strong test strategy, defect analysis, and collaboration with cross-functional teams.
+Senior QA Engineer with 7+ years of experience in delivering high-quality web applications.
+Strong background in manual testing, automation, and API testing with a focus on test strategy,
+defect analysis, and quality ownership across the SDLC.
 
-📍 India | 💼 Open to Senior QA opportunities
+📍 India | 💼 Open to Senior QA / Lead QA opportunities
 
-## 🧠 Core Skills
+---
+
+## 🧠 Core Expertise
 - Test Planning & Test Strategy
 - Functional, Regression, Smoke & Sanity Testing
-- Bug Tracking & Defect Lifecycle Management
+- End-to-End Testing & UAT Support
+- Defect Lifecycle Management
 - Root Cause Analysis
 - Agile / Scrum Methodologies
-- API Testing
-- DataBase Testing
+
+---
 
 ## 🧪 Tools & Technologies
 - Manual Testing
 - Selenium (Java)
-- JavaScript (Basic)
 - API Testing (Postman)
+- Java | JavaScript (Basic)
 - SQL
 - Jira
 - Git & GitHub
 
-## 📌 What You’ll Find Here
+---
+
+## 📌 What You’ll Find on My GitHub
 - Well-structured test cases for real-world applications
-- Detailed bug reports with severity & priority
-- API testing collections and examples
-- Automation frameworks following best practices
+- Detailed bug reports with clear reproduction steps
+- API testing collections (positive & negative scenarios)
+- Automation examples following best practices
+
+---
 
 ## 🌱 Currently Working On
 - Strengthening automation frameworks
 - Improving API testing depth
+- Building QA-focused GitHub projects
 - Preparing for Senior QA / Lead QA roles
 
+---
+
 ## 📫 Connect With Me
-- www.linkedin.com/in/manishacs1810
+www.linkedin.com/in/manishacs1810
